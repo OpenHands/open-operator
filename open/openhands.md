@@ -64,12 +64,12 @@ By automating these tasks, OpenHands aims to increase developer productivity, al
 Citations:
 [^1] https://openhands.ai4bharat.org
 [^2] https://openhands.daytona.io
-[^3] https://github.com/All-Hands-AI/OpenHands?tab=readme-ov-file
+[^3] https://github.com/OpenHands/OpenHands?tab=readme-ov-file
 [^4] https://docs.all-hands.dev/modules/usage/getting-started
 [^5] https://www.repocloud.io/details/?app_id=307
 [^6] https://www.linkedin.com/posts/deeplearningai_openhands-launches-as-an-open-toolkit-for-activity-7264714051736203264-zHPu
 [^7] https://docs.all-hands.dev
-[^8] https://github.com/All-Hands-AI/OpenHands/issues/3758
+[^8] https://github.com/OpenHands/OpenHands/issues/3758
 [^9] https://www.chaindesk.ai/tools/youtube-summarizer/open-hands-ai-software-engineer-generate-complex-apps-end-to-end-opensource-Q3DyeIV96tY
 [^10] https://openreview.net/forum?id=OJd3ayDDoF
 [^11] https://www.youtube.com/watch?v=Q3DyeIV96tY
