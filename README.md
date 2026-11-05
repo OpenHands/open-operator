@@ -21,6 +21,7 @@ For a detailed breakdown of tasks and capabilities, see [capabilities.md](capabi
 - [WebArena](benchmarks/webarena.md) is a realistic web environment for building autonomous agents.
 - [OSWorld](benchmarks/osworld.md) is a scalable, real computer environment for multimodal agents that supports task setup, execution-based evaluation, and interactive learning across operating systems.
 - [ClawBench](benchmarks/clawbench.md) evaluates browser agents on 283 everyday tasks across live websites, with isolated runs, request interception, and five synchronized trace layers.
+- [WebsiteBench](https://github.com/TIGER-AI-Lab/WebsiteBench) - Benchmark for agents that reconstruct full-stack websites through browser exploration, evaluated on appearance and behavior.
 
 ## Benchmark Results Summary
 
